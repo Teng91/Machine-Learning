@@ -1,1 +1,1 @@
-# Maching-Learning
+# Machine-Learning
