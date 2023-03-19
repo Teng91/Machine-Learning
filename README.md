@@ -1,10 +1,12 @@
 # Machine-Learning
-NTU BIME master course
+Programming language: Python, Matlab
+
+Python version: 3.10.8
+
+Matlab version: 2019b
 
 Semester: 111-1
 
 Professor: Yan-Fu Kuo
 
-python version: 3.10.8
-
-matlab version: 2019b
+Department of Biomechatronics Engineering, National Taiwan University
