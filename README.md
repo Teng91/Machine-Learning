@@ -2,9 +2,9 @@
 - Programming language: Python, Matlab
 - Python version: 3.10.8
 - Matlab version: 2019b
-- 本專案包含多個機器學習相關的範例，涵蓋不同的演算法與技術，每個模組皆包含詳細的程式碼與範例資料
+- 本專案包含多個機器學習相關的專案，涵蓋不同的演算法與技術，每個模組皆包含詳細的程式碼與範例資料
 
-Machine-Learning/     
+**Machine-Learning/**     
 ├── CNN/                
 ├── K-Means/            
 ├── KNN/                
